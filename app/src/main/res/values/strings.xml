@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MediBankNewsApp</string>
+    <string name="headlines">Headlines</string>
+    <string name="sources">Sources</string>
+    <string name="saved">Saved</string>
+    <string name="saved_string">Saved</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="author">AUTHOR</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="retry">Retry</string>
+    <string name="check_ur_internet_connection">Check your Internet Connection\n</string>
+    <string name="ok">OK\n</string>
+    <string name="cancel">Cancel</string>
+    <string name="connection_network_error">Connection / Network error</string>
+    <string name="an_unexpected_error_occurred">An unexpected error occurred</string>
+    <string name="url">URL</string>
+    <string name="source_name">Source Name</string>
+    <string name="no_saved_news">No saved news</string>
+    <string name="article_saved_successfully">Article saved successfully</string>
+    <string name="article_removed_from_saved">Article removed from saved</string>
+    <string name="please_select_items">Navigate to the "Sources" page and select the news sources from which you wish to retrieve the top headlines list.</string>
+    <string name="back">back</string>
+</resources>
